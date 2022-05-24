@@ -1,0 +1,49 @@
+000000000000000000000000000000
+0000001                  00000
+0000001    0000000000000000000
+0000001    0000000000000000000
+0000001    0000000000000000000
+0                  00000000000
+0000001    0000000000000000000
+0000001    0000000000000000000
+0000001    0000000000000000000
+0000001                  00000
+000000000000000000000000000000
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+Developer | +
+
+Edgar Rincon
+Customized design & web development
+
+Design tools:
+Photoshop
+
+twitter.com/edgarrinconmora
+github.com/edgarrincon
+
+
+This impressive portfolio was originally developed by Hamish Williams as open source.
+I must confess that I admire his ability as a developer and designer, adapting it to my needs has been more than a job a pleasant challenge. 
+Thank you! Hamish Williams
+https://github.com/HamishMW
+
+
+_______________________________________________________________________________
+
+TECHNOLOGY | 
+
+React
+Three js
+Popmotion
+
+_______________________________________________________________________________
+
+FONTS |
+
+Gotham
+
